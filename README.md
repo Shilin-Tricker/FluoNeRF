@@ -5,12 +5,13 @@ Results
 
 
 <div >
-<img src= "https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/BGoutput.gif" width='200'/>
-<img src="https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/PBoutput.gif" width='200'/>
-<img src="https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/Poutput.gif" width='200'/>
+<img src= "https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/BGoutput.gif" width='150'/>
+<img src="https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/PBoutput.gif" width='150'/>
+<img src="https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/Poutput.gif" width='150'/>
+<img src ='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/RPoutput.gif' width='150'/>
+<img src='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/RYoutput.gif' width='150'/>
+<img src='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/YGoutput.gif' width='150'/>
 </div>
   
 
-<img src ='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/RPoutput.gif' width='200'/>
-<img src='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/RYoutput.gif' width='200'/>
-<img src='https://github.com/Shilin-Tricker/FluoNeRF/blob/main/images/YGoutput.gif' width='200'/>
+
